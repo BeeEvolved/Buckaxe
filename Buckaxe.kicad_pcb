@@ -438,7 +438,7 @@
 				)
 			)
 		)
-		(attr through_hole exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start 7.62 -3.81)
 			(end -2.54 -3.81)
@@ -2618,30 +2618,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0b90fd13-1f53-4530-9f20-eba45640e94d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC" "C270371"
-			(at 0 0 180)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e705d643-35c7-4eb1-b6ea-3db8171189cb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser" "652-CR0402FX-1002GLF"
-			(at 0 0 180)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5d03f901-f457-4d5a-96dd-551fb4804490")
 			(effects
 				(font
 					(size 1 1)
